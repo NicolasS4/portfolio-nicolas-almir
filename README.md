@@ -4,7 +4,6 @@ Este é o repositório do meu portfólio profissional como desenvolvedor. O site
 
 ## Estrutura do Projeto
 
-
 ## Recursos Principais
 
 - **Design Responsivo**: Funciona em dispositivos de todos os tamanhos
@@ -28,7 +27,7 @@ Este é o repositório do meu portfólio profissional como desenvolvedor. O site
 
 ## Contato
 
-- LinkedIn: [Nicolas Almir](https://linkedin.com/in/seu-perfil)
+- LinkedIn: [Nicolas Almir](https://www.linkedin.com/in/nicolas-almir-92773527a)
 - GitHub: [NicolasS4](https://github.com/NicolasS4)
 - Instagram: [@nick_snts_0](https://instagram.com/nick_snts_0)
 - Email: nicolas.almir.br@gmail.com
