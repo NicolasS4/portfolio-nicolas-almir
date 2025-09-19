@@ -1,20 +1,17 @@
 /* ESTILOS  GERAL */
 :root {
     --primary-color: #b38b6d;
-    --secondary-color: #e2c4a7;
+    --secondary-color: #8a7a6a;
     --background-dark: #f0e6d6;
     --surface-dark: #fff8ee;
-    --text-primary-dark: #3a2c1d;  
-    --text-secondary-dark: #5d4d3f;  
+    --text-primary-dark: #5a4a3a;
+    --text-secondary-dark: #8a7a6a;
     --background-light: #f8f2e9;
     --surface-light: #fffcf7;
-    --text-primary-light: #2a1c0d; 
-    --text-secondary-light: #4d3d2f;  
+    --text-primary-light: #4a3c2d;
+    --text-secondary-light: #7a6b5c;
     --error-color: #d8a3a7;
     --success-color: #9db8a8;
-    --shadow: 0 4px 12px rgba(90, 74, 58, 0.1);
-    --border-radius: 12px;
-    --transition: all 0.3s ease;
 }
 * {
     margin: 0;
